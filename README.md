@@ -60,6 +60,7 @@ The dashboard highlights key business insights such as:
 ## 📊 Tools Used
 
 - **Microsoft Excel**
+  - Power Query
   - Pivot Tables
   - Pivot Charts
   - Slicers
